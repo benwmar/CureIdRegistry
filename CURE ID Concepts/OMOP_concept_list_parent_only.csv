@@ -155,7 +155,7 @@ OMOP concept_ID,Concept code,Concept name,OMOP domain,Vocabulary,Standard,Descen
 37068812,	LP378241-6, Human metapneumovirus, LOINC, Measurement, S, TRUE
 37025945,	LP377195-5, Human coronavirus, LOINC, Measurement, S, FALSE
 37050195,	LP377083-3, Adenovirus, LOINC, Measurement, S, FALSE
-37075814	LP379721-6, Beta-d-glucan, LOINC, Measurement, S, FALSE
+37075814,	LP379721-6, Beta-d-glucan, LOINC, Measurement, S, FALSE
 37033649,	LP376244-2, Galactomannan (serum), LOINC, Measurement, S, FALSE
 36205488,	LP260072-6, Galactomannan (BAL), LOINC, Measurement, N, FALSE
 37069484,	LP376381-2, Histoplasma Ag (serum), LOINC, Measurement, S, FALSE
