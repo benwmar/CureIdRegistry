@@ -10,29 +10,29 @@ OMOP concept_ID,Concept code,Concept name,OMOP domain,Vocabulary,Standard,Descen
 438112,55342001,Neoplastic disease,Condition,SNOMED,S,TRUE
 377091, 91175000, Seizure, Condition, SNOMED, S, TRUE	
 319835,	42343007, Congestive Heart Failure,Condition, SNOMED, S, TRUE
-441589,	56819008, Endocarditis, SNOMED, Condition, S, TRUE
-314383,	50920009, Myocarditis, SNOMED, Condition, S, TRUE
-44784217, 698247007, Cardiac arrhythmia, SNOMED, Condition, S, TRUE	
-4329847, 22298006, Myocardial infarction, SNOMED, Condition, S, TRUE	
-321042,	410429000, Cardiac arrest, SNOMED, Condition, S, TRUE
-254061,	60046008, Pleural effusion, SNOMED, Condition, S, TRUE
-253796,	36118008, Pneumothorax, SNOMED, Condition, S, TRUE
-4195694,	67782005, Acute respiratory distress syndrome, SNOMED, Condition, S, TRUE
-257315,	53084003, Bacterial pneumonia, SNOMED, Condition, S, TRUE
-261326,	75570004, Viral pneumonia, SNOMED, Condition, S, TRUE
-43530623,	1131000119105, Stroke/Cerebrovascular accident, SNOMED, Condition, S, TRUE
-435785, 7180009, Meningitis, SNOMED, Condition, S, TRUE	
-132736,	5758002, Bacteremia, SNOMED, Condition, S, TRUE
-436093,	67406007, Disseminated intravascular coagulation, SNOMED, Condition, S, TRUE
-440417,	59282003, Pulmonary embolism, SNOMED, Condition, S, TRUE
-43531681,	651000119108, Deep vein thrombosis, SNOMED, Condition, S, TRUE
-197320,	14669001, Acute renal failure, SNOMED, Condition, S, TRUE
-192671,	74474003, Gastrointestinal hemorrhage, SNOMED, Condition, S, TRUE
-4182210,	52448006, Dementia, SNOMED, Condition, S, TRUE
-40401938,	205614001, Down syndrome, SNOMED, Condition, S, TRUE
-439776,	35919005, Autism spectrum disorder, SNOMED, Condition, S, TRUE
-197494, 50711007, Hepatitis C, SNOMED, Condition, S, TRUE	
-4281232,	66071002, Hepatitis B, SNOMED, Condition, S, TRUE
+441589,	56819008, Endocarditis, Condition,SNOMED,S,TRUE
+314383,	50920009, Myocarditis, Condition,SNOMED,S,TRUE
+44784217, 698247007, Cardiac arrhythmia, Condition,SNOMED,S,TRUE	
+4329847, 22298006, Myocardial infarction, Condition,SNOMED,S,TRUE	
+321042,	410429000, Cardiac arrest, Condition,SNOMED,S,TRUE
+254061,	60046008, Pleural effusion, Condition,SNOMED,S,TRUE
+253796,	36118008, Pneumothorax, Condition,SNOMED,S,TRUE
+4195694,	67782005, Acute respiratory distress syndrome, Condition,SNOMED,S,TRUE
+257315,	53084003, Bacterial pneumonia, Condition,SNOMED,S,TRUE
+261326,	75570004, Viral pneumonia, Condition,SNOMED,S,TRUE
+43530623,	1131000119105, Stroke/Cerebrovascular accident, Condition,SNOMED,S,TRUE
+435785, 7180009, Meningitis, Condition,SNOMED,S,TRUE	
+132736,	5758002, Bacteremia, Condition,SNOMED,S,TRUE
+436093,	67406007, Disseminated intravascular coagulation, Condition,SNOMED,S,TRUE
+440417,	59282003, Pulmonary embolism, Condition,SNOMED,S,TRUE
+43531681,	651000119108, Deep vein thrombosis, Condition,SNOMED,S,TRUE
+197320,	14669001, Acute renal failure, Condition,SNOMED,S,TRUE
+192671,	74474003, Gastrointestinal hemorrhage, Condition,SNOMED,S,TRUE
+4182210,	52448006, Dementia, Condition,SNOMED,S,TRUE
+40401938,	205614001, Down syndrome, Condition,SNOMED,S,TRUE
+439776,	35919005, Autism spectrum disorder, Condition,SNOMED,S,TRUE
+197494, 50711007, Hepatitis C, Condition,SNOMED,S,TRUE	
+4281232,	66071002, Hepatitis B, Condition,SNOMED,S,TRUE
 38003563,Hispanic,Hispanic or Latino,Ethnicity,Ethnicity,S,FALSE
 38003564,Not Hispanic,Not Hispanic or Latino,Ethnicity,Ethnicity,S,FALSE
 8570,A,AMBIGUOUS,Gender,Gender,N,FALSE
