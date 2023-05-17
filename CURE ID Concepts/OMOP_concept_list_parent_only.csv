@@ -161,4 +161,4 @@ OMOP concept_ID,Concept code,Concept name,OMOP domain,Vocabulary,Standard,Descen
 37069484,	LP376381-2, Histoplasma Ag (serum), LOINC, Measurement, S, FALSE
 36207253,	LP256485-6, Histoplasma Ag (urine), LOINC, Measurement, N, FALSE
 40796545,	LP43013-9, Coccidioides IgM, LOINC, Measurement, N, FALSE
-40773382,	LP43012-1, Coccidioides IgG, LOINC, Measurement, N, FALSE
+40773382,	LP43012-1, Coccidioides IgG, Measurement,LOINC,  N, FALSE
